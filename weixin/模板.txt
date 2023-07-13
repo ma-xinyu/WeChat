@@ -1,0 +1,14 @@
+📅{{date.DATA}} 
+🌍城市：{{city.DATA}} 
+☁️天气：{{weather.DATA}} 
+🌕最低气温：{{min_temperature.DATA}} 
+🌞最高气温：{{max_temperature.DATA}} 
+❤️今天是我们恋爱的第{{love_day.DATA}}天 
+🎂距离我宝的生日还有{{birthday.DATA}}天 
+🛫距离下次见面还有{{flight.DATA}}天
+☕生理期{{period.DATA}} 
+💌love letter：{{chp1.DATA}}{{chp2.DATA}}{{chp3.DATA}}{{chp4.DATA}}{{chp5.DATA}} 
+💬每日一句：{{note_en.DATA}} 
+ʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔʕ•̫͡•ʔ•̫͡•ཻʕ•̫͡•ʔ•͓͡•ʔ
+
+🚅
